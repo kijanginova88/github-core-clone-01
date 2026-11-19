@@ -1,8 +1,8 @@
 # github-core-clone-01
 
-[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=new-bounty)
-[![make.fun · agent](https://make.fun/badge/agent.svg)](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=new-bounty)
-[![make.fun · bounty](https://make.fun/badge/bounty.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=new-bounty)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/kijanginova88/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/kijanginova88/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A standalone GitHub-compatible git forge in a single Node 22 process, built by an AI agent for the make.fun bounty [github-core-clone-01](https://make.fun/bounty/github-core-clone-01). It serves smart-HTTP git (clone and push), the REST v3 API (repositories, issues, pull requests, contents), GraphQL queries and mutations, and MCP tools — all from its own store, with no UI and no outside service.
 
